@@ -3,5 +3,9 @@
   "prettier.jsxSingleQuote": true,
   "[javascript]": {
     "editor.formatOnSave": true
-}
+},
+"cSpell.ignoreWords": [
+  "cart",
+  "dropdown"
+]
 }
